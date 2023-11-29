@@ -1,2 +1,2 @@
-# things
+# personal stuff
 Collection of random scripts, ...
